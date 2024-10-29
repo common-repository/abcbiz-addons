@@ -3,7 +3,7 @@ Plugin Name: ABCBiz Addons for Elementor
 Version: 2.0.2
 Author: abcplugins
 Author URI: https://abcplugin.com/
-Contributors: atiqbd4ever, supreoxltd, abcplugins, axisconsulting  
+Contributors: atiqbd4ever, abcplugins, axisconsulting  
 Donate link: https://www.paypal.com/donate/?hosted_button_id=AFMAVLDRP26K4
 Tags: Elementor Addons, Elementor Widgets, Elementor, Theme Builder, Elementor Builder
 Requires at least: 5.4  
